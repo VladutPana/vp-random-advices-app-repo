@@ -2,6 +2,7 @@
  
        Random advice generator app
 This is a React project styled with Tailwind CSS that features a simple application with a button. When the button is clicked, it generates an API request using the fetch function in React to display a random advice. The project leverages React's useEffect and useState hooks for state management.
+![Quote](https://github.com/VladutPana/vp-random-advices-app-repo/assets/109078074/ab1e960f-f1fc-462a-b060-33e786e1c4a6)
 
 Features:
 
