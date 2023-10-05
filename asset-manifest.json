@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vp-random-advices-app-repo/static/css/main.e5fec72a.css",
+    "main.js": "/vp-random-advices-app-repo/static/js/main.6ff5609a.js",
+    "index.html": "/vp-random-advices-app-repo/index.html",
+    "main.e5fec72a.css.map": "/vp-random-advices-app-repo/static/css/main.e5fec72a.css.map",
+    "main.6ff5609a.js.map": "/vp-random-advices-app-repo/static/js/main.6ff5609a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5fec72a.css",
+    "static/js/main.6ff5609a.js"
+  ]
+}
