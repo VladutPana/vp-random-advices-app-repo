@@ -15,7 +15,7 @@ Features:
 
 Demo:
 
-You can view a live demonstration of the application here: [http://www.vp-image-carousel-repo.com/](https://vladutpana.github.io/vp-random-advices-app-repo/)
+You can view a live demonstration of the application here: [http://www.vp-random-advices-app-repo.com/](https://vladutpana.github.io/vp-random-advices-app-repo/)
 
 
 Technologies Used:
