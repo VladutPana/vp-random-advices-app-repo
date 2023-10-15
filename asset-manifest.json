@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vp-random-advices-app-repo/static/css/main.e5fec72a.css",
-    "main.js": "/vp-random-advices-app-repo/static/js/main.6ff5609a.js",
+    "main.css": "/vp-random-advices-app-repo/static/css/main.c6494415.css",
+    "main.js": "/vp-random-advices-app-repo/static/js/main.ac681cf3.js",
     "index.html": "/vp-random-advices-app-repo/index.html",
-    "main.e5fec72a.css.map": "/vp-random-advices-app-repo/static/css/main.e5fec72a.css.map",
-    "main.6ff5609a.js.map": "/vp-random-advices-app-repo/static/js/main.6ff5609a.js.map"
+    "main.c6494415.css.map": "/vp-random-advices-app-repo/static/css/main.c6494415.css.map",
+    "main.ac681cf3.js.map": "/vp-random-advices-app-repo/static/js/main.ac681cf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5fec72a.css",
-    "static/js/main.6ff5609a.js"
+    "static/css/main.c6494415.css",
+    "static/js/main.ac681cf3.js"
   ]
 }
