@@ -22,9 +22,9 @@ function App() {
 
   return (
     <div className="h-screen m-0 p-0 box-border flex justify-center align-center text-center items-center bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
-      <div className="bg-white w-[40%] h-[25%] flex align-center items-center flex-col rounded-lg p-[2%] shadow-lg shadow-black">
+      <div className="bg-white md:w-[40%] w-full md:h-[25%] h-auto flex align-center items-center flex-col rounded-lg p-[2%] shadow-lg shadow-black">
         <h1 className="flex align-center items-center h-[70%] text-blue-400 text-2xl">{advice}</h1>
-        <button className="group relative mt-[2%] h-14 w-48 overflow-hidden rounded-3xl bg-slate-300 text-md" onClick={fetchAdvice}>
+        <button className="group relative mt-[2%] h-14 md:w-48 w-[50%] overflow-hidden rounded-3xl bg-slate-300 text-md" onClick={fetchAdvice}>
           <div className="absolute inset-0 w-3 bg-slate-800 transition-all duration-[250ms] ease-out group-hover:w-full"></div>
           <span className="relative text-blue-400 font-bold group-hover:text-white">GET ADVICE</span>
         </button>
